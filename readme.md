@@ -147,7 +147,11 @@ docker logs container_name
 ```
 Displays the logs from a running or stopped container.
 
+![image](https://github.com/user-attachments/assets/c458c1f2-2905-43fc-968a-2bdd90c74440)
+code.PNG 
+
+
+
 These commands cover the essentials of building, running, and managing Docker containers and images, along with specific examples for your QR code generation application.
 
-![Alt text](code.png)
-![Alt text](qr.png) 
+
