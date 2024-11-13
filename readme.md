@@ -148,7 +148,7 @@ docker logs container_name
 Displays the logs from a running or stopped container.
 
 ![image](https://github.com/user-attachments/assets/c458c1f2-2905-43fc-968a-2bdd90c74440)
-qr.PNG 
+https://github.com/angeliquelee33/improved-qr-docker-2024/blob/main/qr.PNG?raw=true 
 
 
 
